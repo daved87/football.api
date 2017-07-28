@@ -1,0 +1,8 @@
+C:\Users\Dave\Desktop\football\football.api\bin\Debug\netcoreapp1.1\football.api.deps.json
+C:\Users\Dave\Desktop\football\football.api\bin\Debug\netcoreapp1.1\football.api.runtimeconfig.json
+C:\Users\Dave\Desktop\football\football.api\bin\Debug\netcoreapp1.1\football.api.runtimeconfig.dev.json
+C:\Users\Dave\Desktop\football\football.api\bin\Debug\netcoreapp1.1\football.api.dll
+C:\Users\Dave\Desktop\football\football.api\bin\Debug\netcoreapp1.1\football.api.pdb
+C:\Users\Dave\Desktop\football\football.api\obj\Debug\netcoreapp1.1\football.api.AssemblyInfo.cs
+C:\Users\Dave\Desktop\football\football.api\obj\Debug\netcoreapp1.1\football.api.dll
+C:\Users\Dave\Desktop\football\football.api\obj\Debug\netcoreapp1.1\football.api.pdb
